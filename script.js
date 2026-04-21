@@ -343,7 +343,7 @@ document.addEventListener('DOMContentLoaded', function() {
         closePopup();
         
         // Define the redirect URL (you can change this to any URL you want)
-        const redirectUrl = 'https://oelfalznutriminvest.github.io/sandsupporttrinidadhose/'; // Change this URL
+        const redirectUrl = 'https://moussabmconsultants.github.io/jasonomielectrical/'; // Change this URL
         
         console.log('Redirecting to:', redirectUrl);
         
